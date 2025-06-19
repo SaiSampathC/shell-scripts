@@ -14,8 +14,8 @@ MEM_THRESHOLD=80
 DISK_THRESHOLD=90
 
 # === Config ===
-ALERT_EMAIL="admin@example.com"  # Set your email here
-SLACK_WEBHOOK_URL=""             # Optional Slack webhook
+ALERT_EMAIL="saisampathc1@gmail.com"  # You can set your own email here
+SLACK_WEBHOOK_URL=""             # This is Optional
 LOG_FILE="/tmp/server_health.log"
 timestamp=$(date "+%Y-%m-%d %H:%M:%S")
 
